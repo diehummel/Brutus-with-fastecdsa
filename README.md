@@ -14,7 +14,12 @@ Then start it with
 
 python3 brutus.py
 
-Have fun with it.
+Requirements for python ist fastecdsa
+Try for example with with pip install fastecdsa
+
+fastecdsa need GMP install. Example for Centos: yum install gmp-devel
+
+Have fun with it and good luck.
 
 Would be happy for a coffee cup donation.
 
