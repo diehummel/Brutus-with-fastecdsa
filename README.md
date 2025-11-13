@@ -1,8 +1,6 @@
-# Brutus-with-fastecdsa
-Brutus with fastecdsa
 Brutus Bitcoin Private Key Brute Forcer with fastecdsa
 
-Brutus with fastecdsais a modified copy of Plutus with fastecdsa from imcmurray
+Brutus with fastecdsa is a modified copy of Plutus with fastecdsa from imcmurray
 
 Origin: https://github.com/imcmurray/Plutus-fastecdsa
 
